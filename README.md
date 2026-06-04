@@ -47,8 +47,14 @@ I'm **Jiaqi Wang**, a 3rd-year **Computer Science & Applied Mathematics** studen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chachi04&show_icons=true&theme=tokyonight" alt="Jiaqi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chachi04&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chachi04&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chachi04&theme=tokyonight" alt="Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chachi04&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chachi04&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
